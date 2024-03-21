@@ -26,6 +26,7 @@ body {
   font-size: 25px
 }
 .introduction{
+    font-family: monospace;
   text-align:center ;
   border: 2px solid white;
   background-color: grey;
